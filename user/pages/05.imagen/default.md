@@ -25,7 +25,6 @@ title: Imagen
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
   <div> 
-  <h3><strong>Imagenes | Escudo y Bandera</strong></h3>
   </div>
      <section>
         <div class="page-container float-right">

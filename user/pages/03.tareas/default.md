@@ -24,9 +24,6 @@ title: Tareas
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TK2G9CM"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-  <div> 
-  <h3><strong>Tareas | Graficación y Animación</strong></h3>
-  </div>
   
      <section>
         <div class="page-container float-right">
@@ -88,7 +85,7 @@ title: Tareas
                 </div>
                     <div class="blog-entry ftco-animate">
                     <div class="text py-4">
-                        <h3 class="heading"><a href="tareas/tarea10">Tarea 10 | Juego HTML</a></h3>
+                        <h3 class="heading"><a href="imagen/juego">Tarea 10 | Juego HTML</a></h3>
                         <p>Ampliar funcionalidad del juego.</p>
                     </div>
                 </div>
@@ -100,7 +97,7 @@ title: Tareas
                 </div>
                     <div class="blog-entry ftco-animate">
                     <div class="text py-4">
-                        <h3 class="heading"><a href="/user/juegophaser/t_hunter.html">Tarea 12 | Juegos con Phaser </a></h3>
+                        <h3 class="heading"><a href="/user/phasergame/t_hunter.html">Tarea 12 | Juegos con Phaser </a></h3>
                         <p>Implementar cambios y funcionalidades en el juego</p>
                     </div>
                 </div>
