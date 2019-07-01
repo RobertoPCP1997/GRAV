@@ -68,13 +68,43 @@ title: Tareas
                         <p>Crear una pagina en nuestro blog que muestre la estructura y contenido de la carpeta Grav.</p>
                     </div>
                 </div> 
-                    <div class="blog-entry ftco-animate">
+                  <div class="blog-entry ftco-animate">
                     <div class="text py-4">
-                        <h3 class="heading"><a href="https://robertocarvajal.com/tareas/tarea-7">Tarea 7 | Grav CMS</a></h3>
-                        <p>Crear unafigura automatica.</p>
+                        <h3 class="heading"><a href="tareas/tarea7">Tarea 7 | Figuras Geométricas</a></h3>
+                        <p>Crear figuras geométricas.</p>
                     </div>
                 </div>
-        </div> <!-- end: page-container -->
+                    <div class="blog-entry ftco-animate">
+                    <div class="text py-4">
+                        <h3 class="heading"><a href="tareas/tarea8">Tarea 8 | Elevator Saga</a></h3>
+                        <p> Jugar programando el funcionamiento de un ascensor.</p>
+                    </div>
+                </div>
+                    <div class="blog-entry ftco-animate">
+                    <div class="text py-4">
+                        <h3 class="heading"><a href="/imagen/bandera">Tarea 9 | Bandera de Jamaica</a></h3>
+                        <p> Realizar la bandera de Jamaica.</p>
+                    </div>
+                </div>
+                    <div class="blog-entry ftco-animate">
+                    <div class="text py-4">
+                        <h3 class="heading"><a href="tareas/tarea10">Tarea 10 | Juego HTML</a></h3>
+                        <p>Ampliar funcionalidad del juego.</p>
+                    </div>
+                </div>
+                    <div class="blog-entry ftco-animate">
+                    <div class="text py-4">
+                        <h3 class="heading"><a href="/tareas/tarea11">Tarea 11 | Frameworks para Juegos</a></h3>
+                        <p>Analizar el funcionamiento, caracteristicas y eficiencia de varios frameworks .</p>
+                    </div>
+                </div>
+                    <div class="blog-entry ftco-animate">
+                    <div class="text py-4">
+                        <h3 class="heading"><a href="/user/juegophaser/t_hunter.html">Tarea 12 | Juegos con Phaser </a></h3>
+                        <p>Implementar cambios y funcionalidades en el juego</p>
+                    </div>
+                </div>
+        </div>
              </div>   
          </div>
     </section>
